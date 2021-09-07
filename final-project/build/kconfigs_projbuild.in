@@ -1,0 +1,5 @@
+source "/home/grant/.local/opt/esp-idf/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/grant/.local/opt/esp-idf/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/grant/.local/opt/esp-idf/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/grant/.local/opt/esp-idf/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/grant/programming/cs6030/Final_Project/final-project/main/Kconfig.projbuild"
